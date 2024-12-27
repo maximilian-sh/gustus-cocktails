@@ -1,0 +1,10 @@
+{
+    "id": "moscow-mule",
+    "name": "Moscow Mule",
+    "instructions": "1. Einen Kupferbecher mit Eis füllen\n2. Wodka und Limettensaft hinzufügen\n3. Mit Ginger Beer auffüllen\n4. Vorsichtig umrühren\n5. Mit einer Limettenscheibe und optional einem Minzzweig garnieren",
+    "ingredients": {
+        "vodka": "Wodka",
+        "lime-juice": "Frischer Limettensaft",
+        "ginger-beer": "Ginger Beer"
+    }
+}
