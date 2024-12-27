@@ -4,18 +4,18 @@
     "ingredients": [
         {
             "name": "white-rum",
-            "amount": 2,
-            "unit": "oz"
+            "amount": 60,
+            "unit": "ml"
         },
         {
             "name": "lime-juice",
-            "amount": 1,
-            "unit": "oz"
+            "amount": 30,
+            "unit": "ml"
         },
         {
             "name": "simple-syrup",
-            "amount": 0.75,
-            "unit": "oz"
+            "amount": 22.5,
+            "unit": "ml"
         },
         {
             "name": "mint-leaves",
@@ -24,8 +24,8 @@
         },
         {
             "name": "club-soda",
-            "amount": 2,
-            "unit": "oz"
+            "amount": 60,
+            "unit": "ml"
         }
     ],
     "glassType": "Highball",

@@ -30,7 +30,7 @@
                     },
                     "unit": {
                         "type": "string",
-                        "enum": ["oz", "ml", "cl", "dash", "leaves", "whole", "piece", "pinch"],
+                        "enum": ["ml", "cl", "dash", "leaves", "whole", "piece", "pinch"],
                         "description": "Unit of measurement"
                     }
                 }
