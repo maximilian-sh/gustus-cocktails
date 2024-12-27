@@ -1,6 +1,6 @@
 # Gustus Cocktails Database
 
-This repository contains the cocktail database for the Gustus app, including recipes and translations.
+This repository contains the cocktail database for the Gustus app, including recipes, translations, and images.
 
 ## Structure
 
@@ -8,33 +8,46 @@ This repository contains the cocktail database for the Gustus app, including rec
 /data
   /base/           # Base cocktail data (ingredients, measurements)
     mojito.json
+    moscowMule.json
     ...
   /translations/   # Translations for cocktail names and instructions
     /en/
       mojito.json
+      moscowMule.json
       ...
     /de/
       mojito.json
+      moscowMule.json
       ...
+  /images/         # High-quality cocktail images
+    mojito.png
+    moscowMule.png
+    ...
 /schema/          # JSON schemas for validation
 ```
 
+## Available Cocktails
+
+-   Mojito - A refreshing Cuban highball with rum, lime, mint, and soda
+-   Moscow Mule - A spicy vodka cocktail served in a copper mug with ginger beer
+
 ## Adding a New Cocktail
 
-1. Create the base cocktail file in `/data/base/[cocktail-name].json`
-2. Add translations in `/data/translations/[lang]/[cocktail-name].json`
-3. Run validation: `npm run validate`
-4. Submit a pull request
+1. Create the base cocktail file in `/data/base/[cocktailName].json`
+2. Add translations in `/data/translations/[lang]/[cocktailName].json`
+3. Add a high-quality image (800x800 to 1500x1500 pixels) in `/data/images/[cocktailName].png`
+4. Run validation: `npm run validate`
+5. Submit a pull request
 
 ### Base Cocktail Format
 
 ```json
 {
-    "id": "cocktail-name",
-    "image": "cocktail-name.png",
+    "id": "cocktailName",
+    "image": "cocktailName.png",
     "ingredients": [
         {
-            "name": "ingredient-id",
+            "name": "ingredientId",
             "amount": 60,
             "unit": "ml"
         }
@@ -48,14 +61,22 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ```json
 {
-    "id": "cocktail-name",
+    "id": "cocktailName",
     "name": "Cocktail Name",
     "instructions": "Step-by-step instructions...",
     "ingredients": {
-        "ingredient-id": "Ingredient Name"
+        "ingredientId": "Ingredient Name"
     }
 }
 ```
+
+## Image Guidelines
+
+-   Format: PNG
+-   Resolution: 800x800 to 1500x1500 pixels
+-   Style: Professional photo with proper garnishes
+-   Lighting: Clear, well-lit to show the drink details
+-   Consistency: Maintain similar aspect ratio across all images
 
 ## Development
 
