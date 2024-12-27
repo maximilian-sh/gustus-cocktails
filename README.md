@@ -35,8 +35,8 @@ This repository contains the cocktail database for the Gustus app, including rec
     "ingredients": [
         {
             "name": "ingredient-id",
-            "amount": 2,
-            "unit": "oz"
+            "amount": 60,
+            "unit": "ml"
         }
     ],
     "glassType": "Highball",
