@@ -1,0 +1,74 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": ["id", "ingredients", "glassType", "tags"],
+    "properties": {
+        "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "Unique identifier for the cocktail"
+        },
+        "image": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+\\.png$",
+            "description": "Name of the cocktail image file"
+        },
+        "ingredients": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": ["name", "amount", "unit"],
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9-]+$",
+                        "description": "Ingredient identifier"
+                    },
+                    "amount": {
+                        "type": "number",
+                        "description": "Amount of the ingredient"
+                    },
+                    "unit": {
+                        "type": "string",
+                        "enum": ["oz", "ml", "cl", "dash", "leaves", "whole", "piece", "pinch"],
+                        "description": "Unit of measurement"
+                    }
+                }
+            }
+        },
+        "glassType": {
+            "type": "string",
+            "enum": ["Highball", "Tumbler", "Martini", "CocktailCoupe", "Hurricane", "Mug", "Wine"],
+            "description": "Type of glass used for the cocktail"
+        },
+        "tags": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "enum": [
+                    "rum",
+                    "vodka",
+                    "gin",
+                    "tequila",
+                    "whiskey",
+                    "brandy",
+                    "virgin",
+                    "sweet",
+                    "sour",
+                    "bitter",
+                    "spicy",
+                    "fruity",
+                    "herbal",
+                    "creamy",
+                    "refreshing",
+                    "strong",
+                    "classic",
+                    "modern",
+                    "tropical",
+                    "winter"
+                ]
+            },
+            "description": "Tags for categorizing and filtering cocktails"
+        }
+    }
+}

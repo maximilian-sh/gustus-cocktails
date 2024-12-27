@@ -1,0 +1,13 @@
+{
+    "name": "gustus-cocktails",
+    "version": "1.0.0",
+    "description": "Cocktail database for the Gustus app",
+    "scripts": {
+        "validate": "node scripts/validate.js",
+        "test": "npm run validate"
+    },
+    "dependencies": {
+        "ajv": "^8.12.0",
+        "glob": "^10.3.10"
+    }
+}

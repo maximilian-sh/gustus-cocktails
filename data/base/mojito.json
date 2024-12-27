@@ -1,0 +1,33 @@
+{
+    "id": "mojito",
+    "image": "mojito.png",
+    "ingredients": [
+        {
+            "name": "white-rum",
+            "amount": 2,
+            "unit": "oz"
+        },
+        {
+            "name": "lime-juice",
+            "amount": 1,
+            "unit": "oz"
+        },
+        {
+            "name": "simple-syrup",
+            "amount": 0.75,
+            "unit": "oz"
+        },
+        {
+            "name": "mint-leaves",
+            "amount": 8,
+            "unit": "leaves"
+        },
+        {
+            "name": "club-soda",
+            "amount": 2,
+            "unit": "oz"
+        }
+    ],
+    "glassType": "Highball",
+    "tags": ["rum", "refreshing", "sweet", "classic"]
+}

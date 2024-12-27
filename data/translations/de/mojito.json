@@ -1,0 +1,12 @@
+{
+    "id": "mojito",
+    "name": "Mojito",
+    "instructions": "1. Minzblätter vorsichtig mit Zuckersirup im Shaker muddeln\n2. Rum, Limettensaft und Eis hinzufügen\n3. Gut schütteln und in ein mit Eis gefülltes Highball-Glas abseihen\n4. Mit Sodawasser auffüllen\n5. Mit Minzzweig und Limettenscheibe garnieren",
+    "ingredients": {
+        "white-rum": "Weißer Rum",
+        "lime-juice": "Frischer Limettensaft",
+        "simple-syrup": "Zuckersirup",
+        "mint-leaves": "Frische Minzblätter",
+        "club-soda": "Sodawasser"
+    }
+}

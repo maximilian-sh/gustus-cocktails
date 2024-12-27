@@ -1,0 +1,12 @@
+{
+    "id": "mojito",
+    "name": "Mojito",
+    "instructions": "1. Gently muddle mint leaves with simple syrup in a shaker\n2. Add rum, lime juice, and ice\n3. Shake well and strain into a highball glass filled with ice\n4. Top with club soda\n5. Garnish with mint sprig and lime wheel",
+    "ingredients": {
+        "white-rum": "White Rum",
+        "lime-juice": "Fresh Lime Juice",
+        "simple-syrup": "Simple Syrup",
+        "mint-leaves": "Fresh Mint Leaves",
+        "club-soda": "Club Soda"
+    }
+}

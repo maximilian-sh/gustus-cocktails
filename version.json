@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-20T12:00:00Z",
+    "minAppVersion": "1.0.0",
+    "changes": [
+        {
+            "version": "1.0.0",
+            "date": "2024-01-20T12:00:00Z",
+            "changes": ["Initial release with mojito cocktail", "Added English and German translations"]
+        }
+    ]
+}
