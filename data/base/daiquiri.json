@@ -1,0 +1,26 @@
+{
+    "id": "daiquiri",
+    "image": "daiquiri.png",
+    "ingredients": [
+        {
+            "name": "whiteRum",
+            "amount": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "limeJuice",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "simpleSyrup",
+            "amount": 15,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "cocktailCoupe",
+    "tags": {
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["rum"]
+    }
+}

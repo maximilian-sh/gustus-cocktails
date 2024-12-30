@@ -1,0 +1,10 @@
+{
+    "name": "Daiquiri",
+    "description": "Ein klassischer kubanischer Cocktail, der Rum, frischen Limettensaft und Zuckersirup perfekt ausbalanciert. Wird ohne Eis in einer gekühlten Cocktailschale serviert.",
+    "instructions": [
+        "Alle Zutaten in einen Shaker mit Eis geben",
+        "Kräftig schütteln bis gut gekühlt",
+        "Doppelt in eine gekühlte Cocktailschale abseihen",
+        "Traditionell ohne Garnitur, optional mit einer Limettenscheibe"
+    ]
+}
