@@ -5,13 +5,13 @@
     "properties": {
         "id": {
             "type": "string",
-            "pattern": "^[a-zA-Z0-9]+$",
-            "description": "Unique identifier for the cocktail"
+            "pattern": "^[a-z][a-zA-Z0-9]*$",
+            "description": "Unique identifier for the cocktail (in camelCase)"
         },
         "image": {
             "type": "string",
-            "pattern": "^[a-zA-Z0-9]+\\.png$",
-            "description": "Name of the cocktail image file"
+            "pattern": "^[a-z][a-zA-Z0-9]*\\.png$",
+            "description": "Name of the cocktail image file (in camelCase)"
         },
         "ingredients": {
             "type": "array",
@@ -21,8 +21,8 @@
                 "properties": {
                     "name": {
                         "type": "string",
-                        "pattern": "^[a-zA-Z0-9]+$",
-                        "description": "Ingredient identifier"
+                        "pattern": "^[a-z][a-zA-Z0-9]*$",
+                        "description": "Ingredient identifier (in camelCase)"
                     },
                     "amount": {
                         "type": "number",

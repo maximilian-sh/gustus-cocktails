@@ -1,10 +1,10 @@
 {
-    "id": "moscow-mule",
+    "id": "moscowMule",
     "name": "Moscow Mule",
     "instructions": "1. Fill a copper mug with ice\n2. Add vodka and lime juice\n3. Top with ginger beer\n4. Stir gently to combine\n5. Garnish with a lime wheel and optional mint sprig",
     "ingredients": {
         "vodka": "Vodka",
-        "lime-juice": "Fresh Lime Juice",
-        "ginger-beer": "Ginger Beer"
+        "limeJuice": "Fresh Lime Juice",
+        "gingerBeer": "Ginger Beer"
     }
 }

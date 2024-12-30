@@ -5,8 +5,8 @@
     "properties": {
         "id": {
             "type": "string",
-            "pattern": "^[a-z0-9-]+$",
-            "description": "Unique identifier matching the base cocktail"
+            "pattern": "^[a-z][a-zA-Z0-9]*$",
+            "description": "Unique identifier matching the base cocktail (in camelCase)"
         },
         "name": {
             "type": "string",
@@ -19,12 +19,12 @@
         "ingredients": {
             "type": "object",
             "patternProperties": {
-                "^[a-z0-9-]+$": {
+                "^[a-z][a-zA-Z0-9]*$": {
                     "type": "string",
                     "description": "Translated ingredient name"
                 }
             },
-            "description": "Translations for ingredient names, keyed by ingredient id"
+            "description": "Translations for ingredient names, keyed by ingredient id (in camelCase)"
         }
     }
 }

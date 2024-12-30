@@ -5,16 +5,16 @@
     "properties": {
         "id": {
             "type": "string",
-            "pattern": "^[a-zA-Z0-9]+$",
-            "description": "Identifier for the index"
+            "pattern": "^[a-z][a-zA-Z0-9]*$",
+            "description": "Identifier for the index (in camelCase)"
         },
         "cocktails": {
             "type": "array",
             "items": {
                 "type": "string",
-                "pattern": "^[a-zA-Z0-9]+$"
+                "pattern": "^[a-z][a-zA-Z0-9]*$"
             },
-            "description": "List of available cocktail IDs"
+            "description": "List of available cocktail IDs (in camelCase)"
         }
     }
 }
