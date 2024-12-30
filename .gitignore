@@ -1,0 +1,12 @@
+# Dependencies (temporary for validation)
+node_modules/
+package.json
+package-lock.json
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Scripts (temporary for validation)
+scripts/ 
