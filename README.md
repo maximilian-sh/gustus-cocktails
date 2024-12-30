@@ -72,11 +72,13 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ## Image Guidelines
 
--   Format: PNG
+-   Format: PNG with transparency
+-   Style: Minimalistic aquarelle (watercolor) drawings
+-   Background: Transparent (no background)
 -   Resolution: 800x800 to 1500x1500 pixels
--   Style: Professional photo with proper garnishes
--   Lighting: Clear, well-lit to show the drink details
--   Consistency: Maintain similar aspect ratio across all images
+-   Colors: Soft, watercolor-like tones
+-   Design: Clean, artistic representation of the cocktail with essential elements only
+-   Consistency: Similar artistic style and scale across all cocktail illustrations
 
 ## Development
 
