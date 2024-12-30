@@ -26,6 +26,25 @@ This repository contains the cocktail database for the Gustus app, including rec
 /schema/          # JSON schemas for validation
 ```
 
+## Data Structure
+
+### Glass Types
+
+```json
+{
+    "glassTypes": ["Highball", "Tumbler", "Martini", "CocktailCoupe", "Hurricane", "Mug", "Wine"]
+}
+```
+
+### Tags
+
+```json
+{
+    "flavorTags": ["Fruity", "Sour", "Bitter", "Sweet", "Spicy"],
+    "spiritTags": ["Rum", "Vodka", "Gin", "Tequila", "Whiskey", "Virgin"]
+}
+```
+
 ## Available Cocktails
 
 -   Mojito - A refreshing Cuban highball with rum, lime, mint, and soda

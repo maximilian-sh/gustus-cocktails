@@ -1,6 +1,6 @@
 {
-    "id": "moscow-mule",
-    "image": "moscow-mule.png",
+    "id": "moscowMule",
+    "image": "moscowMule.png",
     "ingredients": [
         {
             "name": "vodka",
@@ -18,6 +18,9 @@
             "unit": "ml"
         }
     ],
-    "glassType": "Copper Mug",
-    "tags": ["vodka", "refreshing", "spicy", "classic"]
+    "glassType": "Mug",
+    "tags": {
+        "flavorTags": ["Sour", "Spicy"],
+        "spiritTags": ["Vodka"]
+    }
 }

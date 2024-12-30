@@ -29,5 +29,8 @@
         }
     ],
     "glassType": "Highball",
-    "tags": ["rum", "refreshing", "sweet", "classic"]
+    "tags": {
+        "flavorTags": ["Sour", "Sweet"],
+        "spiritTags": ["Rum"]
+    }
 }
