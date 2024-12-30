@@ -1,3 +1,4 @@
 {
+    "id": "cocktailIndex",
     "cocktails": ["mojito", "moscowMule"]
 }

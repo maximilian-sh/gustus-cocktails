@@ -3,34 +3,34 @@
     "image": "mojito.png",
     "ingredients": [
         {
-            "name": "white-rum",
+            "name": "whiteRum",
             "amount": 60,
             "unit": "ml"
         },
         {
-            "name": "lime-juice",
+            "name": "limeJuice",
             "amount": 30,
             "unit": "ml"
         },
         {
-            "name": "simple-syrup",
+            "name": "simpleSyrup",
             "amount": 22.5,
             "unit": "ml"
         },
         {
-            "name": "mint-leaves",
+            "name": "mintLeaves",
             "amount": 8,
             "unit": "leaves"
         },
         {
-            "name": "club-soda",
+            "name": "clubSoda",
             "amount": 60,
             "unit": "ml"
         }
     ],
-    "glassType": "Highball",
+    "glassType": "highball",
     "tags": {
-        "flavorTags": ["Sour", "Sweet"],
-        "spiritTags": ["Rum"]
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["rum"]
     }
 }

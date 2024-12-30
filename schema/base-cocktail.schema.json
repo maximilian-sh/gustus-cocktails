@@ -5,12 +5,12 @@
     "properties": {
         "id": {
             "type": "string",
-            "pattern": "^[a-z0-9-]+$",
+            "pattern": "^[a-zA-Z0-9]+$",
             "description": "Unique identifier for the cocktail"
         },
         "image": {
             "type": "string",
-            "pattern": "^[a-z0-9-]+\\.png$",
+            "pattern": "^[a-zA-Z0-9]+\\.png$",
             "description": "Name of the cocktail image file"
         },
         "ingredients": {
@@ -21,7 +21,7 @@
                 "properties": {
                     "name": {
                         "type": "string",
-                        "pattern": "^[a-z0-9-]+$",
+                        "pattern": "^[a-zA-Z0-9]+$",
                         "description": "Ingredient identifier"
                     },
                     "amount": {
@@ -38,35 +38,29 @@
         },
         "glassType": {
             "type": "string",
-            "enum": ["Highball", "Tumbler", "Martini", "CocktailCoupe", "Hurricane", "Mug", "Wine"],
+            "enum": ["highball", "tumbler", "martini", "cocktailCoupe", "hurricane", "mug", "wine"],
             "description": "Type of glass used for the cocktail"
         },
         "tags": {
-            "type": "array",
-            "items": {
-                "type": "string",
-                "enum": [
-                    "rum",
-                    "vodka",
-                    "gin",
-                    "tequila",
-                    "whiskey",
-                    "brandy",
-                    "virgin",
-                    "sweet",
-                    "sour",
-                    "bitter",
-                    "spicy",
-                    "fruity",
-                    "herbal",
-                    "creamy",
-                    "refreshing",
-                    "strong",
-                    "classic",
-                    "modern",
-                    "tropical",
-                    "winter"
-                ]
+            "type": "object",
+            "required": ["flavorTags", "spiritTags"],
+            "properties": {
+                "flavorTags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "enum": ["fruity", "sour", "bitter", "sweet", "spicy"]
+                    },
+                    "description": "Tags describing the flavor profile"
+                },
+                "spiritTags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "enum": ["rum", "vodka", "gin", "tequila", "whiskey", "virgin"]
+                    },
+                    "description": "Tags indicating the primary spirits used"
+                }
             },
             "description": "Tags for categorizing and filtering cocktails"
         }

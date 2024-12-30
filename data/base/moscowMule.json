@@ -8,19 +8,19 @@
             "unit": "ml"
         },
         {
-            "name": "lime-juice",
+            "name": "limeJuice",
             "amount": 15,
             "unit": "ml"
         },
         {
-            "name": "ginger-beer",
+            "name": "gingerBeer",
             "amount": 120,
             "unit": "ml"
         }
     ],
-    "glassType": "Mug",
+    "glassType": "mug",
     "tags": {
-        "flavorTags": ["Sour", "Spicy"],
-        "spiritTags": ["Vodka"]
+        "flavorTags": ["sour", "spicy"],
+        "spiritTags": ["vodka"]
     }
 }
