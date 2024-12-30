@@ -32,7 +32,7 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ```json
 {
-    "glassTypes": ["Highball", "Tumbler", "Martini", "CocktailCoupe", "Hurricane", "Mug", "Wine"]
+    "glassTypes": ["highball", "tumbler", "martini", "cocktailCoupe", "hurricane", "mug", "wine"]
 }
 ```
 
@@ -40,8 +40,8 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ```json
 {
-    "flavorTags": ["Fruity", "Sour", "Bitter", "Sweet", "Spicy"],
-    "spiritTags": ["Rum", "Vodka", "Gin", "Tequila", "Whiskey", "Virgin"]
+    "flavorTags": ["fruity", "sour", "bitter", "sweet", "spicy"],
+    "spiritTags": ["rum", "vodka", "gin", "tequila", "whiskey", "virgin"]
 }
 ```
 
@@ -52,27 +52,37 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ## Adding a New Cocktail
 
-1. Create the base cocktail file in `/data/base/[cocktailName].json`
-2. Add translations in `/data/translations/[lang]/[cocktailName].json`
-3. Add a high-quality image (800x800 to 1500x1500 pixels) in `/data/images/[cocktailName].png`
+1. Create the base cocktail file in `/data/base/[cocktailId].json`
+2. Add translations in `/data/translations/[lang]/[cocktailId].json`
+3. Add a high-quality image (800x800 to 1500x1500 pixels) in `/data/images/[cocktailId].png`
 4. Run validation: `npm run validate`
 5. Submit a pull request
+
+### Naming Conventions
+
+-   Use camelCase for all identifiers (cocktail IDs, ingredient names, etc.)
+-   File names should match their IDs (e.g., `moscowMule.json`, `moscowMule.png`)
+-   Tags and glass types are lowercase in camelCase format
+-   No hyphens or underscores in any identifiers
 
 ### Base Cocktail Format
 
 ```json
 {
-    "id": "cocktailName",
-    "image": "cocktailName.png",
+    "id": "cocktailId",
+    "image": "cocktailId.png",
     "ingredients": [
         {
-            "name": "ingredientId",
+            "name": "ingredientName",
             "amount": 60,
             "unit": "ml"
         }
     ],
-    "glassType": "Highball",
-    "tags": ["rum", "sweet", "classic"]
+    "glassType": "highball",
+    "tags": {
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["rum"]
+    }
 }
 ```
 
@@ -80,11 +90,11 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ```json
 {
-    "id": "cocktailName",
+    "id": "cocktailId",
     "name": "Cocktail Name",
     "instructions": "Step-by-step instructions...",
     "ingredients": {
-        "ingredientId": "Ingredient Name"
+        "ingredientName": "Ingredient Name"
     }
 }
 ```
@@ -98,6 +108,7 @@ This repository contains the cocktail database for the Gustus app, including rec
 -   Colors: Soft, watercolor-like tones
 -   Design: Clean, artistic representation of the cocktail with essential elements only
 -   Consistency: Similar artistic style and scale across all cocktail illustrations
+-   File naming: Use camelCase matching the cocktail ID (e.g., `moscowMule.png`)
 
 ## Development
 
