@@ -1,5 +1,11 @@
 {
     "id": "cocktailIndex",
     "name": "Cocktail Index",
-    "description": "List of all available cocktails"
+    "description": "List of all available cocktails",
+    "cocktails": {
+        "mojito": "Mojito",
+        "moscowMule": "Moscow Mule",
+        "daiquiri": "Daiquiri",
+        "pinaColada": "Piña Colada"
+    }
 }

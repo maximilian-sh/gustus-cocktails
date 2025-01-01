@@ -1,0 +1,31 @@
+{
+    "id": "pinaColada",
+    "image": "pinaColada.png",
+    "ingredients": [
+        {
+            "name": "whiteRum",
+            "amount": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "coconutCream",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "pineappleJuice",
+            "amount": 90,
+            "unit": "ml"
+        },
+        {
+            "name": "ice",
+            "amount": 6,
+            "unit": "whole"
+        }
+    ],
+    "glassType": "hurricane",
+    "tags": {
+        "flavorTags": ["sweet", "fruity"],
+        "spiritTags": ["rum"]
+    }
+}

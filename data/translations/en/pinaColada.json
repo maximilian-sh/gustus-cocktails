@@ -1,0 +1,11 @@
+{
+    "id": "pinaColada",
+    "name": "Piña Colada",
+    "instructions": "1. Add ice to a blender.\n2. Pour in white rum, coconut cream, and pineapple juice.\n3. Blend until smooth and frothy.\n4. Pour into a hurricane glass.\n5. Optionally garnish with a pineapple wedge and cherry.",
+    "ingredients": {
+        "whiteRum": "White Rum",
+        "coconutCream": "Coconut Cream",
+        "pineappleJuice": "Pineapple Juice",
+        "ice": "Ice"
+    }
+}

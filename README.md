@@ -47,8 +47,10 @@ This repository contains the cocktail database for the Gustus app, including rec
 
 ## Available Cocktails
 
--   Mojito - A refreshing Cuban highball with rum, lime, mint, and soda
--   Moscow Mule - A spicy vodka cocktail served in a copper mug with ginger beer
+The list of available cocktails can be found in:
+
+-   `/data/base/index.json` - Master list of all cocktail IDs
+-   `/data/translations/[lang]/index.json` - Translated cocktail names for each language
 
 ## Adding a New Cocktail
 

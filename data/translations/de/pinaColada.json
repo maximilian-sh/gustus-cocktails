@@ -1,0 +1,11 @@
+{
+    "id": "pinaColada",
+    "name": "Piña Colada",
+    "instructions": "1. Geben Sie Eis in einen Mixer.\n2. Gießen Sie weißen Rum, Kokosnusscreme und Ananassaft hinzu.\n3. Mixen Sie alles, bis es glatt und schaumig ist.\n4. In ein Hurricane-Glas gießen.\n5. Optional mit einem Ananasstück und einer Kirsche garnieren.",
+    "ingredients": {
+        "whiteRum": "Weißer Rum",
+        "coconutCream": "Kokosnusscreme",
+        "pineappleJuice": "Ananassaft",
+        "ice": "Eis"
+    }
+}
