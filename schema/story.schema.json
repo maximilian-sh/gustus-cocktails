@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "type": "object",
-    "required": ["title", "content", "image", "author", "date", "tags"],
+    "required": ["title", "content", "image", "author", "date", "linkedDrinks"],
     "properties": {
         "title": {
             "type": "string",
@@ -24,12 +24,12 @@
             "format": "date",
             "description": "The publication date of the story"
         },
-        "tags": {
+        "linkedDrinks": {
             "type": "array",
             "items": {
                 "type": "string"
             },
-            "description": "Tags associated with the story"
+            "description": "IDs of cocktails referenced in the story"
         }
     }
 }
