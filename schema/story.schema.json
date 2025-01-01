@@ -1,0 +1,35 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": ["title", "content", "image", "author", "date", "tags"],
+    "properties": {
+        "title": {
+            "type": "string",
+            "description": "The title of the story"
+        },
+        "content": {
+            "type": "string",
+            "description": "The main content of the story"
+        },
+        "image": {
+            "type": "string",
+            "description": "The filename of the story's image"
+        },
+        "author": {
+            "type": "string",
+            "description": "The author of the story"
+        },
+        "date": {
+            "type": "string",
+            "format": "date",
+            "description": "The publication date of the story"
+        },
+        "tags": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            },
+            "description": "Tags associated with the story"
+        }
+    }
+}
