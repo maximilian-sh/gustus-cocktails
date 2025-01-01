@@ -1,0 +1,8 @@
+{
+    "title": "Mocktail Ideas",
+    "content": "Who says you need alcohol to enjoy a sophisticated and delicious drink? Mocktails are the perfect way to enjoy the artistry of mixology without the spirits. These non-alcoholic beverages are crafted with the same attention to detail and flavor complexity as their alcoholic counterparts.\n\nOne of the keys to creating great mocktails is using fresh, high-quality ingredients. Fresh-squeezed juices, aromatic herbs, and premium mixers can elevate a simple drink into something extraordinary. Try combining fresh lime juice with mint leaves and ginger beer for a Virgin Moscow Mule, or blend coconut cream with pineapple juice for an alcohol-free Piña Colada.\n\nThe beauty of mocktails lies in their versatility and inclusivity. They're perfect for designated drivers, those who don't drink alcohol, or anyone looking to enjoy a refreshing, sophisticated beverage without the effects of spirits.",
+    "image": "mocktailIdeas.jpeg",
+    "author": "Maximilian Kallina",
+    "date": "2025-01-02",
+    "linkedDrinks": ["moscowMule", "pinaColada"]
+}
