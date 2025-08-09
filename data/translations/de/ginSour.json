@@ -1,0 +1,11 @@
+{
+    "id": "ginSour",
+    "name": "Gin Sour",
+    "instructions": "1. Gin, Zitronensaft, Zuckersirup und Eiweiß in einen Shaker geben\n2. Trocken schütteln (ohne Eis) um das Eiweiß zu emulgieren\n3. Eis hinzufügen und erneut schütteln bis gut gekühlt\n4. Doppelt abseihen in eine gekühlte Cocktail-Coupe\n5. Mit Zitronenscheibe garnieren",
+    "ingredients": {
+        "gin": "Gin",
+        "lemonJuice": "Frischer Zitronensaft",
+        "simpleSyrup": "Zuckersirup",
+        "eggWhite": "Eiweiß"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "ginSour",
+    "image": "ginSour.png",
+    "ingredients": [
+        {
+            "name": "gin",
+            "amount": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "lemonJuice",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "simpleSyrup",
+            "amount": 22.5,
+            "unit": "ml"
+        },
+        {
+            "name": "eggWhite",
+            "amount": 1,
+            "unit": "whole"
+        }
+    ],
+    "glassType": "cocktailCoupe",
+    "tags": {
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["gin"]
+    }
+}

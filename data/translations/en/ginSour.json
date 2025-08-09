@@ -1,0 +1,11 @@
+{
+    "id": "ginSour",
+    "name": "Gin Sour",
+    "instructions": "1. Add gin, lemon juice, simple syrup, and egg white to a shaker\n2. Dry shake (without ice) to emulsify the egg white\n3. Add ice and shake again until well-chilled\n4. Double strain into a chilled cocktail coupe\n5. Garnish with a lemon wheel",
+    "ingredients": {
+        "gin": "Gin",
+        "lemonJuice": "Fresh Lemon Juice",
+        "simpleSyrup": "Simple Syrup",
+        "eggWhite": "Egg White"
+    }
+}
