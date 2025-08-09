@@ -1,0 +1,10 @@
+{
+    "id": "negroni",
+    "name": "Negroni",
+    "instructions": "1. Rocks-Glas mit Eis füllen\n2. Gin, Campari und süßen Wermut hinzufügen\n3. Vorsichtig rühren bis gut gekühlt\n4. Mit Orangenzeste garnieren",
+    "ingredients": {
+        "gin": "Gin",
+        "campari": "Campari",
+        "sweetVermouth": "Süßer Wermut"
+    }
+}

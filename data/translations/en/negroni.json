@@ -1,0 +1,10 @@
+{
+    "id": "negroni",
+    "name": "Negroni",
+    "instructions": "1. Fill a rocks glass with ice\n2. Add gin, Campari, and sweet vermouth\n3. Stir gently until well-chilled\n4. Garnish with an orange twist",
+    "ingredients": {
+        "gin": "Gin",
+        "campari": "Campari",
+        "sweetVermouth": "Sweet Vermouth"
+    }
+}

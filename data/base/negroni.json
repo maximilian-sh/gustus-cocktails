@@ -1,0 +1,26 @@
+{
+    "id": "negroni",
+    "image": "negroni.png",
+    "ingredients": [
+        {
+            "name": "gin",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "campari",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "sweetVermouth",
+            "amount": 30,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "tumbler",
+    "tags": {
+        "flavorTags": ["bitter"],
+        "spiritTags": ["gin"]
+    }
+}
