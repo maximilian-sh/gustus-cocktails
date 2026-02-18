@@ -132,4 +132,6 @@ npm run validate
 
 ## License
 
-MIT
+This database is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are free to use, share, and adapt the content for non-commercial purposes with attribution.
+
+For commercial licensing, contact [mail@maximilian.sh](mailto:mail@maximilian.sh).
