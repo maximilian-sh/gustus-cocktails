@@ -1,0 +1,11 @@
+{
+    "id": "cosmopolitan",
+    "name": "Cosmopolitan",
+    "instructions": "1. Add vodka, triple sec, cranberry juice, and lime juice to a shaker with ice\n2. Shake well\n3. Strain into a chilled cocktail coupe\n4. Garnish with a lime wheel or orange twist",
+    "ingredients": {
+        "vodka": "Vodka",
+        "tripleSec": "Triple Sec",
+        "cranberryJuice": "Cranberry Juice",
+        "limeJuice": "Fresh Lime Juice"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": "bloodyMary",
+    "name": "Bloody Mary",
+    "instructions": "1. Add vodka, tomato juice, lemon juice, Worcestershire sauce, and Tabasco to a shaker with ice\n2. Season with salt and black pepper\n3. Roll gently between two shakers or stir well\n4. Strain into a highball glass filled with ice\n5. Garnish with a celery stick",
+    "ingredients": {
+        "vodka": "Vodka",
+        "tomatoJuice": "Tomato Juice",
+        "lemonJuice": "Fresh Lemon Juice",
+        "worcestershireSauce": "Worcestershire Sauce",
+        "tabascoSauce": "Tabasco Sauce",
+        "salt": "Salt",
+        "blackPepper": "Black Pepper",
+        "celeryStick": "Celery Stick"
+    }
+}

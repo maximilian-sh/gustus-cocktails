@@ -1,0 +1,11 @@
+{
+    "id": "tomCollins",
+    "name": "Tom Collins",
+    "instructions": "1. Gin, Zitronensaft und Zuckersirup mit Eis in einen Shaker geben\n2. Gut schütteln\n3. In ein mit Eis gefülltes Highball-Glas abseihen\n4. Mit Sodawasser auffüllen und sanft umrühren\n5. Mit einer Zitronenscheibe und einer Kirsche garnieren",
+    "ingredients": {
+        "gin": "Gin",
+        "lemonJuice": "Frischer Zitronensaft",
+        "simpleSyrup": "Zuckersirup",
+        "clubSoda": "Sodawasser"
+    }
+}

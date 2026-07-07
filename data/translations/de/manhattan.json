@@ -1,0 +1,11 @@
+{
+    "id": "manhattan",
+    "name": "Manhattan",
+    "instructions": "1. Rye Whiskey, süßen Wermut und Bitters mit Eis in ein Rührglas geben\n2. Gut rühren, bis es kalt ist\n3. In eine gekühlte Cocktailschale abseihen\n4. Mit einer Maraschinokirsche garnieren",
+    "ingredients": {
+        "ryeWhiskey": "Rye Whiskey",
+        "sweetVermouth": "Süßer Wermut",
+        "angosturaBitters": "Angostura Bitters",
+        "maraschinoCherry": "Maraschinokirsche"
+    }
+}

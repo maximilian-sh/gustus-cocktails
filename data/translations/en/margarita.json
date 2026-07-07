@@ -1,0 +1,11 @@
+{
+    "id": "margarita",
+    "name": "Margarita",
+    "instructions": "1. Rim a martini glass with salt\n2. Add tequila, triple sec, and lime juice to a shaker with ice\n3. Shake well\n4. Strain into the prepared glass\n5. Garnish with a lime wheel",
+    "ingredients": {
+        "tequila": "Tequila",
+        "tripleSec": "Triple Sec",
+        "limeJuice": "Fresh Lime Juice",
+        "salt": "Salt"
+    }
+}

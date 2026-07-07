@@ -1,0 +1,26 @@
+{
+    "id": "ginTonic",
+    "image": "ginTonic.png",
+    "ingredients": [
+        {
+            "name": "gin",
+            "amount": 50,
+            "unit": "ml"
+        },
+        {
+            "name": "tonicWater",
+            "amount": 150,
+            "unit": "ml"
+        },
+        {
+            "name": "limeWedge",
+            "amount": 1,
+            "unit": "piece"
+        }
+    ],
+    "glassType": "highball",
+    "tags": {
+        "flavorTags": ["bitter", "sour"],
+        "spiritTags": ["gin"]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": "longIslandIcedTea",
+    "name": "Long Island Iced Tea",
+    "instructions": "1. Add vodka, white rum, gin, tequila, triple sec, lemon juice, and simple syrup to a shaker with ice\n2. Shake well\n3. Strain into a highball glass filled with ice\n4. Top with a splash of cola\n5. Garnish with a lemon wedge",
+    "ingredients": {
+        "vodka": "Vodka",
+        "whiteRum": "White Rum",
+        "gin": "Gin",
+        "tequila": "Tequila",
+        "tripleSec": "Triple Sec",
+        "lemonJuice": "Fresh Lemon Juice",
+        "simpleSyrup": "Simple Syrup",
+        "cola": "Cola"
+    }
+}

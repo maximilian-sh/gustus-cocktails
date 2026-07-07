@@ -1,0 +1,11 @@
+{
+    "id": "espressoMartini",
+    "name": "Espresso Martini",
+    "instructions": "1. Wodka, Kaffeelikör, frischen Espresso und Zuckersirup mit Eis in einen Shaker geben\n2. Kräftig schütteln, bis es gut gekühlt ist\n3. Doppelt in ein gekühltes Martiniglas abseihen\n4. Mit drei Kaffeebohnen garnieren",
+    "ingredients": {
+        "vodka": "Wodka",
+        "coffeeLiqueur": "Kaffeelikör",
+        "freshEspresso": "Frischer Espresso",
+        "simpleSyrup": "Zuckersirup"
+    }
+}

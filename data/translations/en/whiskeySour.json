@@ -1,0 +1,11 @@
+{
+    "id": "whiskeySour",
+    "name": "Whiskey Sour",
+    "instructions": "1. Add bourbon whiskey, lemon juice, and simple syrup to a shaker with ice\n2. Shake well\n3. Strain into a tumbler over ice\n4. Garnish with a few dashes of Angostura bitters and a lemon wheel",
+    "ingredients": {
+        "bourbonWhiskey": "Bourbon Whiskey",
+        "lemonJuice": "Fresh Lemon Juice",
+        "simpleSyrup": "Simple Syrup",
+        "angosturaBitters": "Angostura Bitters"
+    }
+}

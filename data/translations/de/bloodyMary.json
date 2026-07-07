@@ -1,0 +1,15 @@
+{
+    "id": "bloodyMary",
+    "name": "Bloody Mary",
+    "instructions": "1. Wodka, Tomatensaft, Zitronensaft, Worcestersauce und Tabasco mit Eis in einen Shaker geben\n2. Mit Salz und schwarzem Pfeffer würzen\n3. Sanft zwischen zwei Shakern rollen oder gut umrühren\n4. In ein mit Eis gefülltes Highball-Glas abseihen\n5. Mit einem Selleriestängel garnieren",
+    "ingredients": {
+        "vodka": "Wodka",
+        "tomatoJuice": "Tomatensaft",
+        "lemonJuice": "Frischer Zitronensaft",
+        "worcestershireSauce": "Worcestersauce",
+        "tabascoSauce": "Tabascosauce",
+        "salt": "Salz",
+        "blackPepper": "Schwarzer Pfeffer",
+        "celeryStick": "Selleriestängel"
+    }
+}

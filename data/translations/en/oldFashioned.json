@@ -1,0 +1,11 @@
+{
+    "id": "oldFashioned",
+    "name": "Old Fashioned",
+    "instructions": "1. Add simple syrup and bitters to a mixing glass\n2. Add bourbon whiskey and ice\n3. Stir well until chilled\n4. Strain into a tumbler over a large ice cube\n5. Garnish with an orange peel",
+    "ingredients": {
+        "bourbonWhiskey": "Bourbon Whiskey",
+        "simpleSyrup": "Simple Syrup",
+        "angosturaBitters": "Angostura Bitters",
+        "orangePeel": "Orange Peel"
+    }
+}

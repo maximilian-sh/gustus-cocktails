@@ -1,0 +1,31 @@
+{
+    "id": "whiskeySour",
+    "image": "whiskeySour.png",
+    "ingredients": [
+        {
+            "name": "bourbonWhiskey",
+            "amount": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "lemonJuice",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "simpleSyrup",
+            "amount": 22.5,
+            "unit": "ml"
+        },
+        {
+            "name": "angosturaBitters",
+            "amount": 2,
+            "unit": "dash"
+        }
+    ],
+    "glassType": "tumbler",
+    "tags": {
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["whiskey"]
+    }
+}

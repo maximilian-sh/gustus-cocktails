@@ -1,0 +1,31 @@
+{
+    "id": "margarita",
+    "image": "margarita.png",
+    "ingredients": [
+        {
+            "name": "tequila",
+            "amount": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "tripleSec",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "limeJuice",
+            "amount": 22.5,
+            "unit": "ml"
+        },
+        {
+            "name": "salt",
+            "amount": 1,
+            "unit": "pinch"
+        }
+    ],
+    "glassType": "martini",
+    "tags": {
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["tequila"]
+    }
+}

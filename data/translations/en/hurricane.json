@@ -1,0 +1,13 @@
+{
+    "id": "hurricane",
+    "name": "Hurricane",
+    "instructions": "1. Add white rum, dark rum, passion fruit syrup, orange juice, lime juice, and grenadine to a shaker with ice\n2. Shake well\n3. Pour into a hurricane glass filled with ice\n4. Garnish with an orange slice and a cherry",
+    "ingredients": {
+        "whiteRum": "White Rum",
+        "darkRum": "Dark Rum",
+        "passionFruitSyrup": "Passion Fruit Syrup",
+        "orangeJuice": "Orange Juice",
+        "limeJuice": "Fresh Lime Juice",
+        "grenadine": "Grenadine"
+    }
+}

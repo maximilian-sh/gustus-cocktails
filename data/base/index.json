@@ -1,4 +1,26 @@
 {
     "id": "cocktailIndex",
-    "cocktails": ["mojito", "moscowMule", "daiquiri", "pinaColada", "negroni", "ginSour"]
+    "cocktails": [
+        "mojito",
+        "moscowMule",
+        "daiquiri",
+        "pinaColada",
+        "negroni",
+        "ginSour",
+        "oldFashioned",
+        "margarita",
+        "whiskeySour",
+        "cosmopolitan",
+        "espressoMartini",
+        "manhattan",
+        "ginTonic",
+        "hurricane",
+        "caipirinha",
+        "bloodyMary",
+        "darkNStormy",
+        "tomCollins",
+        "paloma",
+        "maiTai",
+        "longIslandIcedTea"
+    ]
 }

@@ -1,0 +1,31 @@
+{
+    "id": "manhattan",
+    "image": "manhattan.png",
+    "ingredients": [
+        {
+            "name": "ryeWhiskey",
+            "amount": 60,
+            "unit": "ml"
+        },
+        {
+            "name": "sweetVermouth",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "angosturaBitters",
+            "amount": 2,
+            "unit": "dash"
+        },
+        {
+            "name": "maraschinoCherry",
+            "amount": 1,
+            "unit": "piece"
+        }
+    ],
+    "glassType": "cocktailCoupe",
+    "tags": {
+        "flavorTags": ["bitter", "sweet"],
+        "spiritTags": ["whiskey"]
+    }
+}

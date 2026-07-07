@@ -1,0 +1,11 @@
+{
+    "id": "whiskeySour",
+    "name": "Whiskey Sour",
+    "instructions": "1. Bourbon Whiskey, Zitronensaft und Zuckersirup mit Eis in einen Shaker geben\n2. Gut schütteln\n3. In ein mit Eis gefülltes Tumbler-Glas abseihen\n4. Mit ein paar Spritzern Angostura Bitters und einer Zitronenscheibe garnieren",
+    "ingredients": {
+        "bourbonWhiskey": "Bourbon Whiskey",
+        "lemonJuice": "Frischer Zitronensaft",
+        "simpleSyrup": "Zuckersirup",
+        "angosturaBitters": "Angostura Bitters"
+    }
+}

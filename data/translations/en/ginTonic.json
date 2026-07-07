@@ -1,0 +1,10 @@
+{
+    "id": "ginTonic",
+    "name": "Gin & Tonic",
+    "instructions": "1. Fill a highball glass with ice\n2. Add gin\n3. Top with tonic water\n4. Stir gently and garnish with a lime wedge",
+    "ingredients": {
+        "gin": "Gin",
+        "tonicWater": "Tonic Water",
+        "limeWedge": "Lime Wedge"
+    }
+}

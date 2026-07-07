@@ -1,0 +1,11 @@
+{
+    "id": "paloma",
+    "name": "Paloma",
+    "instructions": "1. Ein Highball-Glas mit Salz umranden und mit Eis füllen\n2. Tequila und Limettensaft hinzufügen\n3. Mit Grapefruit-Limonade auffüllen\n4. Sanft umrühren und mit einer Limettenscheibe garnieren",
+    "ingredients": {
+        "tequila": "Tequila",
+        "grapefruitSoda": "Grapefruit-Limonade",
+        "limeJuice": "Frischer Limettensaft",
+        "salt": "Salz"
+    }
+}

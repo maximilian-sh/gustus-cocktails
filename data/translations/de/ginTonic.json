@@ -1,0 +1,10 @@
+{
+    "id": "ginTonic",
+    "name": "Gin Tonic",
+    "instructions": "1. Ein Highball-Glas mit Eis füllen\n2. Gin hinzufügen\n3. Mit Tonic Water auffüllen\n4. Sanft umrühren und mit einer Limettenspalte garnieren",
+    "ingredients": {
+        "gin": "Gin",
+        "tonicWater": "Tonic Water",
+        "limeWedge": "Limettenspalte"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "longIslandIcedTea",
+    "image": "longIslandIcedTea.png",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "whiteRum",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "gin",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "tequila",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "tripleSec",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "lemonJuice",
+            "amount": 22.5,
+            "unit": "ml"
+        },
+        {
+            "name": "simpleSyrup",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "cola",
+            "amount": 30,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "highball",
+    "tags": {
+        "flavorTags": ["sour", "sweet"],
+        "spiritTags": ["vodka", "rum", "gin", "tequila"]
+    }
+}

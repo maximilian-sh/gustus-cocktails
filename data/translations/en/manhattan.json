@@ -1,0 +1,11 @@
+{
+    "id": "manhattan",
+    "name": "Manhattan",
+    "instructions": "1. Add rye whiskey, sweet vermouth, and bitters to a mixing glass with ice\n2. Stir well until chilled\n3. Strain into a chilled cocktail coupe\n4. Garnish with a maraschino cherry",
+    "ingredients": {
+        "ryeWhiskey": "Rye Whiskey",
+        "sweetVermouth": "Sweet Vermouth",
+        "angosturaBitters": "Angostura Bitters",
+        "maraschinoCherry": "Maraschino Cherry"
+    }
+}

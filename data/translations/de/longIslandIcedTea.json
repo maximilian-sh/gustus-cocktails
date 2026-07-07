@@ -1,0 +1,15 @@
+{
+    "id": "longIslandIcedTea",
+    "name": "Long Island Iced Tea",
+    "instructions": "1. Wodka, weißen Rum, Gin, Tequila, Triple Sec, Zitronensaft und Zuckersirup mit Eis in einen Shaker geben\n2. Gut schütteln\n3. In ein mit Eis gefülltes Highball-Glas abseihen\n4. Mit einem Schuss Cola auffüllen\n5. Mit einer Zitronenspalte garnieren",
+    "ingredients": {
+        "vodka": "Wodka",
+        "whiteRum": "Weißer Rum",
+        "gin": "Gin",
+        "tequila": "Tequila",
+        "tripleSec": "Triple Sec",
+        "lemonJuice": "Frischer Zitronensaft",
+        "simpleSyrup": "Zuckersirup",
+        "cola": "Cola"
+    }
+}

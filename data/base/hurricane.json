@@ -1,0 +1,41 @@
+{
+    "id": "hurricane",
+    "image": "hurricane.png",
+    "ingredients": [
+        {
+            "name": "whiteRum",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "darkRum",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "passionFruitSyrup",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "orangeJuice",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "limeJuice",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "grenadine",
+            "amount": 7.5,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "hurricane",
+    "tags": {
+        "flavorTags": ["sweet", "fruity"],
+        "spiritTags": ["rum"]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "maiTai",
+    "image": "maiTai.png",
+    "ingredients": [
+        {
+            "name": "whiteRum",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "darkRum",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "orangeCuracao",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "orgeatSyrup",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "limeJuice",
+            "amount": 22.5,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "tumbler",
+    "tags": {
+        "flavorTags": ["sweet", "fruity"],
+        "spiritTags": ["rum"]
+    }
+}

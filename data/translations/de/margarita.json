@@ -1,0 +1,11 @@
+{
+    "id": "margarita",
+    "name": "Margarita",
+    "instructions": "1. Ein Martiniglas mit Salz umranden\n2. Tequila, Triple Sec und Limettensaft mit Eis in einen Shaker geben\n3. Gut schütteln\n4. In das vorbereitete Glas abseihen\n5. Mit einer Limettenscheibe garnieren",
+    "ingredients": {
+        "tequila": "Tequila",
+        "tripleSec": "Triple Sec",
+        "limeJuice": "Frischer Limettensaft",
+        "salt": "Salz"
+    }
+}

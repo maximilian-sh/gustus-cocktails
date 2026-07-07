@@ -1,0 +1,11 @@
+{
+    "id": "espressoMartini",
+    "name": "Espresso Martini",
+    "instructions": "1. Add vodka, coffee liqueur, fresh espresso, and simple syrup to a shaker with ice\n2. Shake vigorously until well chilled\n3. Double strain into a chilled martini glass\n4. Garnish with three coffee beans",
+    "ingredients": {
+        "vodka": "Vodka",
+        "coffeeLiqueur": "Coffee Liqueur",
+        "freshEspresso": "Fresh Espresso",
+        "simpleSyrup": "Simple Syrup"
+    }
+}

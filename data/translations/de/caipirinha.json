@@ -1,0 +1,10 @@
+{
+    "id": "caipirinha",
+    "name": "Caipirinha",
+    "instructions": "1. Limettenspalten und Zuckerwürfel in einem Tumbler-Glas zerdrücken\n2. Das Glas mit Crushed Ice füllen\n3. Cachaça hinzufügen und gut umrühren\n4. Mit einer Limettenscheibe garnieren",
+    "ingredients": {
+        "cachaca": "Cachaça",
+        "limeWedges": "Limettenspalten",
+        "sugarCubes": "Zuckerwürfel"
+    }
+}

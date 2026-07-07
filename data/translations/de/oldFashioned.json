@@ -1,0 +1,11 @@
+{
+    "id": "oldFashioned",
+    "name": "Old Fashioned",
+    "instructions": "1. Zuckersirup und Bitters in ein Rührglas geben\n2. Bourbon Whiskey und Eis hinzufügen\n3. Gut rühren, bis es kalt ist\n4. In ein Tumbler-Glas über einen großen Eiswürfel abseihen\n5. Mit einer Orangenschale garnieren",
+    "ingredients": {
+        "bourbonWhiskey": "Bourbon Whiskey",
+        "simpleSyrup": "Zuckersirup",
+        "angosturaBitters": "Angostura Bitters",
+        "orangePeel": "Orangenschale"
+    }
+}

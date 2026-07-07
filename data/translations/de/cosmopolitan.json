@@ -1,0 +1,11 @@
+{
+    "id": "cosmopolitan",
+    "name": "Cosmopolitan",
+    "instructions": "1. Wodka, Triple Sec, Cranberrysaft und Limettensaft mit Eis in einen Shaker geben\n2. Gut schütteln\n3. In eine gekühlte Cocktailschale abseihen\n4. Mit einer Limettenscheibe oder Orangenzeste garnieren",
+    "ingredients": {
+        "vodka": "Wodka",
+        "tripleSec": "Triple Sec",
+        "cranberryJuice": "Cranberrysaft",
+        "limeJuice": "Frischer Limettensaft"
+    }
+}

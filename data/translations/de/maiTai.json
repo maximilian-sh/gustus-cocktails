@@ -1,0 +1,12 @@
+{
+    "id": "maiTai",
+    "name": "Mai Tai",
+    "instructions": "1. Weißen Rum, dunklen Rum, Orangen-Curaçao, Orgeat-Sirup und Limettensaft mit Eis in einen Shaker geben\n2. Gut schütteln\n3. In ein mit Crushed Ice gefülltes Tumbler-Glas gießen\n4. Mit einem Minzzweig und einer Limettenscheibe garnieren",
+    "ingredients": {
+        "whiteRum": "Weißer Rum",
+        "darkRum": "Dunkler Rum",
+        "orangeCuracao": "Orangen-Curaçao",
+        "orgeatSyrup": "Orgeat-Sirup",
+        "limeJuice": "Frischer Limettensaft"
+    }
+}

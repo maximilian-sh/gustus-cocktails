@@ -1,0 +1,10 @@
+{
+    "id": "caipirinha",
+    "name": "Caipirinha",
+    "instructions": "1. Muddle lime wedges and sugar cubes in a tumbler\n2. Fill the glass with crushed ice\n3. Add cachaça and stir well\n4. Garnish with a lime wheel",
+    "ingredients": {
+        "cachaca": "Cachaça",
+        "limeWedges": "Lime Wedges",
+        "sugarCubes": "Sugar Cubes"
+    }
+}

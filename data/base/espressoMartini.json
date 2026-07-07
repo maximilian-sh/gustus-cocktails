@@ -1,0 +1,31 @@
+{
+    "id": "espressoMartini",
+    "image": "espressoMartini.png",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "amount": 50,
+            "unit": "ml"
+        },
+        {
+            "name": "coffeeLiqueur",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "freshEspresso",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "simpleSyrup",
+            "amount": 7.5,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "martini",
+    "tags": {
+        "flavorTags": ["bitter", "sweet"],
+        "spiritTags": ["vodka"]
+    }
+}

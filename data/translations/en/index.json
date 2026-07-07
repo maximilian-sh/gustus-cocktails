@@ -8,6 +8,21 @@
         "daiquiri": "Daiquiri",
         "pinaColada": "Piña Colada",
         "negroni": "Negroni",
-        "ginSour": "Gin Sour"
+        "ginSour": "Gin Sour",
+        "oldFashioned": "Old Fashioned",
+        "margarita": "Margarita",
+        "whiskeySour": "Whiskey Sour",
+        "cosmopolitan": "Cosmopolitan",
+        "espressoMartini": "Espresso Martini",
+        "manhattan": "Manhattan",
+        "ginTonic": "Gin & Tonic",
+        "hurricane": "Hurricane",
+        "caipirinha": "Caipirinha",
+        "bloodyMary": "Bloody Mary",
+        "darkNStormy": "Dark 'n' Stormy",
+        "tomCollins": "Tom Collins",
+        "paloma": "Paloma",
+        "maiTai": "Mai Tai",
+        "longIslandIcedTea": "Long Island Iced Tea"
     }
 }

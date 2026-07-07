@@ -1,0 +1,12 @@
+{
+    "id": "maiTai",
+    "name": "Mai Tai",
+    "instructions": "1. Add white rum, dark rum, orange curaçao, orgeat syrup, and lime juice to a shaker with ice\n2. Shake well\n3. Pour into a tumbler filled with crushed ice\n4. Garnish with a mint sprig and a lime wheel",
+    "ingredients": {
+        "whiteRum": "White Rum",
+        "darkRum": "Dark Rum",
+        "orangeCuracao": "Orange Curaçao",
+        "orgeatSyrup": "Orgeat Syrup",
+        "limeJuice": "Fresh Lime Juice"
+    }
+}

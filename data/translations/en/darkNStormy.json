@@ -1,0 +1,10 @@
+{
+    "id": "darkNStormy",
+    "name": "Dark 'n' Stormy",
+    "instructions": "1. Fill a highball glass with ice\n2. Add lime juice and dark rum\n3. Top with ginger beer\n4. Stir gently and garnish with a lime wedge",
+    "ingredients": {
+        "darkRum": "Dark Rum",
+        "gingerBeer": "Ginger Beer",
+        "limeJuice": "Fresh Lime Juice"
+    }
+}

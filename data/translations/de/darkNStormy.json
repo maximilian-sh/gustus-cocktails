@@ -1,0 +1,10 @@
+{
+    "id": "darkNStormy",
+    "name": "Dark 'n' Stormy",
+    "instructions": "1. Ein Highball-Glas mit Eis füllen\n2. Limettensaft und dunklen Rum hinzufügen\n3. Mit Ginger Beer auffüllen\n4. Sanft umrühren und mit einer Limettenspalte garnieren",
+    "ingredients": {
+        "darkRum": "Dunkler Rum",
+        "gingerBeer": "Ginger Beer",
+        "limeJuice": "Frischer Limettensaft"
+    }
+}

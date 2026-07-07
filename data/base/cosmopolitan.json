@@ -1,0 +1,31 @@
+{
+    "id": "cosmopolitan",
+    "image": "cosmopolitan.png",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "amount": 45,
+            "unit": "ml"
+        },
+        {
+            "name": "tripleSec",
+            "amount": 15,
+            "unit": "ml"
+        },
+        {
+            "name": "cranberryJuice",
+            "amount": 30,
+            "unit": "ml"
+        },
+        {
+            "name": "limeJuice",
+            "amount": 15,
+            "unit": "ml"
+        }
+    ],
+    "glassType": "cocktailCoupe",
+    "tags": {
+        "flavorTags": ["sour", "fruity"],
+        "spiritTags": ["vodka"]
+    }
+}

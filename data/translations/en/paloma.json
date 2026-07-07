@@ -1,0 +1,11 @@
+{
+    "id": "paloma",
+    "name": "Paloma",
+    "instructions": "1. Rim a highball glass with salt and fill with ice\n2. Add tequila and lime juice\n3. Top with grapefruit soda\n4. Stir gently and garnish with a lime wheel",
+    "ingredients": {
+        "tequila": "Tequila",
+        "grapefruitSoda": "Grapefruit Soda",
+        "limeJuice": "Fresh Lime Juice",
+        "salt": "Salt"
+    }
+}
