@@ -9,4 +9,7 @@ package-lock.json
 .DS_Store
 
 # Scripts (temporary for validation)
-scripts/ 
+scripts/
+
+# AI image generation tooling (prompts, batch scripts, API key) - local only
+image-generation/ 
